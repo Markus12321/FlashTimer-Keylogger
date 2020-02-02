@@ -1,0 +1,15 @@
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.csprojAssemblyReference.cache
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\FLash.exe.config
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\FLash.exe
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\FLash.pdb
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\KeystrokeAPI.dll
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.csproj.CopyComplete
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.exe
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.pdb
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\Json.Net.dll
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\FLash.exe.manifest
+C:\Users\Morki\source\repos\FLash\FLash\bin\Debug\FLash.application
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.exe.manifest
+C:\Users\Morki\source\repos\FLash\FLash\obj\Debug\FLash.application
